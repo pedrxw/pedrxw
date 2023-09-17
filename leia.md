@@ -7,12 +7,12 @@
 ====================================================================================================== 
 -- translate to english                                                                             --
 
-<!-- If you use something that is mine but is not legally registered, please leave my credits      --> 
+<--- If you use something that is mine but is not legally registered, please leave my credits      --> 
 
 -- tradução para o português                                                                        --
 
-<!-- caso use algo que seja meu porem nao esta registrado legalmente, por favor deixe meus creditos--> 
+<--- caso use algo que seja meu porem nao esta registrado legalmente, por favor deixe meus creditos--> 
 
 -- traducción española                                                                              -- 
 
-<!-- si usas algo que es mío pero no está registrado legalmente, por favor deja mis créditos       --> 
+<--- si usas algo que es mío pero no está registrado legalmente, por favor deja mis créditos       --> 
